@@ -8,3 +8,5 @@
 * python train_net.py --config-file configs/R_50_1x.yaml --num-gpus 1 SOLVER.IMS_PER_BATCH 4 SOLVER.BASE_LR 0.0025
 ## Reference
 * [1] P.Goyal et al., Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour, arXiv'17
+## Notification
+Skeleton code was provided by Young-taek Oh
