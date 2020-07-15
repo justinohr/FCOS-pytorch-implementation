@@ -10,4 +10,5 @@
 * [1] P.Goyal et al., Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour, arXiv'17
 ## Notification
 This project is for EE898 programming assignment
+
 Skeleton code was provided by TA Young-taek Oh
